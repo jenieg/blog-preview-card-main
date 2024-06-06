@@ -1,6 +1,6 @@
 # Blog Preview Card | [Visit Here](https://jenieg.github.io/blog-preview-card-main/)
 
-![Jenie | Software Engineer](./assets/images/blog-demo-photo.webp)
+![Jenie | Software Engineer](./assets/images/blog-preview-photo.webp)
 
 
 
